@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Application Packaging Automation
 
 ## Project Overview
@@ -28,3 +29,25 @@ This project focuses on automating Windows application packaging and deployment 
 - [ ] GitHub Actions
 - [ ] Automated testing
 - [ ] CI/CD integration
+=======
+# Application Packaging Automation
+
+## Project Overview
+This project is created to learn and automate
+Windows application packaging processes.
+
+## Technologies
+- PowerShell
+- PSADT
+- Git
+- GitHub
+- GitHub Actions
+- Pester
+
+## Objectives
+- Automate application packaging.
+- Validate installation and uninstallation.
+- Automate application detection.
+- Generate deployment artifacts.
+- Integrate CI/CD pipelines.
+>>>>>>> Stashed changes
