@@ -1,0 +1,16 @@
+# Temporary files
+Temp/
+*.tmp
+
+# Logs
+*.log
+Logs/
+
+# Build output
+Output/
+*.intunewin
+
+# Sensitive information
+.env
+*.pfx
+*.p12
